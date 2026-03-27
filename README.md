@@ -81,7 +81,7 @@ think-work-repeat/
 |-- data.py
 |-- utils.py
 |-- requirements.txt
-`-- README.md
+└── README.md
 ```
 
 ## How Prediction Works
